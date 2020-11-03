@@ -4,7 +4,7 @@ This project is not completely finshed
 # docbot
 #hemanth r shankar - frontend
 #Kiran M - nlp, scramping, training and testing 
-#Gowtham R - nlp and scramping 
+#Gowtham R - frontend,nlp and scramping 
 
 Doctor bot / DocBot
        The project we am currently working. The out come of the project is to build a "Chat-bot for clinical purpose". With the help of Natural language processing we are working        on a chat-bot that can provide different features like  
